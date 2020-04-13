@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'https://btre-django-project.herokuapp.com/',
+    'btre-django-project.herokuapp.com',
     'localhost'
 ]
 
